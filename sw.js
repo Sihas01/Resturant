@@ -5,11 +5,11 @@ const CACHE_NAME = 'my-cache-v1';
 
 // Files to cache
 const URLs_TO_CACHE = [
-  '/',
-  '/index.html',
-  '/css/index.css',
-  '/main.js',
-  '/images/icon.png'
+  './',
+  './index.html',
+  './css/index.css',
+  './main.js',
+  './images/icon.png'
 ];
 
 // Install event
