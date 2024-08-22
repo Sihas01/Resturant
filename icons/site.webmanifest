@@ -1,6 +1,7 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "resturant page",
+    "short_name": "resturant",
+    "start_url" : "/Resturant/index.html",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
